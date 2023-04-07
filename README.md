@@ -1,2 +1,1 @@
-# ParaCyberBellum
-API eXchange Platform documentation
+![](https://github.com/rbidou/apx-api-doc/raw/main/images/paracyberbellum-doc.png)
